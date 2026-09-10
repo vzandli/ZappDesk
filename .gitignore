@@ -1,0 +1,43 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+*.xcarchive
+.swiftpm/
+.build/
+.module-cache/
+
+# Release artifacts (see DISTRIBUTION.md)
+releases/
+*.zip
+*.dmg
+*.delta
+appcast.xml
+
+# Secrets and signing material — never commit
+.env
+.env.*
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+ExportOptions.plist
+
+# Local tooling and scratch
+.claude/
+CLAUDE.md
+*.log
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Internal working docs
+DISTRIBUTION.md
+ROADMAP.md
+NOTES.md
+TODO.md
