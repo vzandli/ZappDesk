@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.png" width="128" alt="ZappDesk icon">
+
 # ZappDesk
 
 **Instant desktop switching for macOS.**
